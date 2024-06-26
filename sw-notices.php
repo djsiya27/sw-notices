@@ -3,7 +3,7 @@
 Plugin Name: SW Notices Custom Post Type
 Description: Creates a custom post type 'SW Notices' with custom taxonomies and icons.
 Version: 1.0
-Author: Your Name
+Author: Siyabonga Majola
 */
 
 // Register the custom post type 'SW Notices'
